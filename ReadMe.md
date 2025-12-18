@@ -1,246 +1,219 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to My Digital Space
-
-### Mohammad Tabish Ansari
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+BSc+IT+Student;Passionate+About+Clean+Code;Building+Scalable+Web+Solutions;UI%2FUX+Design+Enthusiast;Open+Source+Contributor;Always+Exploring+New+Technologies" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/MdTabish24"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/md.tabish_ansari"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/Ansari_MdTabish"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mohammad%20Tabish%20Ansari&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=55&descSize=18"/>
 
 </div>
 
-## 👨‍💻 Professional Overview
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=BSc+IT+Student+%40+BK+Birla+College;Full+Stack+Development+Enthusiast;Building+Scalable+Web+Solutions;Problem+Solver+%26+Tech+Explorer)](https://git.io/typing-svg)
 
-```javascript
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad%20Tabish%20Ansari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/MdTabish24)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/md.tabish_ansari)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ansari_MdTabish)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/MdTabish)
+
+</div>
+
+<br>
+
+## 🎯 About Me
+
+```typescript
 const developer = {
-    name: "Mohammad Tabish Ansari",
-    location: "Bhiwandi, Maharashtra, India 🇮🇳",
-    education: {
-        degree: "Bachelor of Science in Information Technology",
-        institution: "BK Birla College (Autonomous), Kalyan",
-        year: "Second Year",
-        focus: "Computer Science & Software Engineering"
-    },
-    currentRole: "Full Stack Developer",
-    specialization: ["Web Development", "UI/UX Design", "Data Structures & Algorithms"],
-    currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    workingOn: ["Personal Portfolio", "Open Source Projects", "Technical Blog"],
-    askMeAbout: ["Web Dev", "Tech", "Design", "Freelancing", "Career Advice"],
-    technologies: {
-        frontEnd: ["JavaScript", "Bootstrap", "Tailwind CSS", "Responsive Design"],
-        backEnd: ["Java", "Spring Framework", "Hibernate ORM", "RESTful APIs"],
-        databases: ["MongoDB", "SQL"],
-        tools: ["Git", "NPM", "VS Code", "Postman"],
-        design: ["Canva", "Behance", "Figma"]
-    },
-    motto: "Write code that speaks for itself",
-    contact: "Let's connect and build something extraordinary! 🚀"
+  name: "Mohammad Tabish Ansari",
+  location: "Bhiwandi, Maharashtra, India 🇮🇳",
+  education: "BSc IT @ BK Birla College (Autonomous), Kalyan",
+  currentYear: "Second Year",
+  
+  expertise: {
+    frontend: ["JavaScript", "Bootstrap", "Tailwind CSS", "Responsive Design"],
+    backend: ["Java", "Spring Boot", "Hibernate", "RESTful APIs"],
+    database: ["MongoDB", "SQL"],
+    design: ["Figma", "Canva", "UI/UX"],
+    tools: ["Git", "VS Code", "Postman", "Linux"]
+  },
+  
+  currentFocus: [
+    "Advanced React Patterns",
+    "System Design & Architecture", 
+    "Cloud Technologies",
+    "Open Source Contributions"
+  ],
+  
+  interests: ["Web Development", "Problem Solving", "UI/UX Design", "DSA"],
+  
+  availableFor: {
+    internships: true,
+    freelance: true,
+    collaboration: true,
+    mentorship: true
+  }
 };
 ```
 
+<br>
+
+## 💻 Tech Stack
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Languages & Core
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### Design & Productivity
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-## 🎯 Core Competencies
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdTabish24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MdTabish24&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=ffa500&currStreakLabel=667eea" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=667eea&line=667eea&point=ffa500" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
+## 🎓 Education & Achievements
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css" />
-<br><strong>Programming Languages</strong>
-<br><sub>Building robust applications</sub>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/student-center.png"/>
+<br><br>
+<strong>BK Birla College (Autonomous)</strong>
+<br>
+Bachelor of Science - Information Technology
+<br>
+📅 2023 - 2026 (Expected)
+<br>
+📍 Kalyan, Maharashtra
 </td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,bootstrap,tailwind,npm,mongodb" />
-<br><strong>Frameworks & Tools</strong>
-<br><sub>Modern development stack</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,linux,postman,github" />
-<br><strong>Development Environment</strong>
-<br><sub>Productivity & collaboration</sub>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png"/>
+<br><br>
+<strong>Key Coursework</strong>
+<br>
+• Web Technologies
+<br>
+• Database Management Systems
+<br>
+• Data Structures & Algorithms
+<br>
+• Software Engineering
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 💻 Tech Stack Breakdown
-
-</div>
-
-#### 🎨 **Frontend Development**
-```yaml
-Core: HTML5, CSS3, JavaScript
-Frameworks: Bootstrap 5, Tailwind CSS
-Concepts: Responsive Design, Mobile-First Approach, Cross-Browser Compatibility
-```
-
-#### ⚡ **Backend Development**
-```yaml
-Languages: Java, Python
-Frameworks: Spring Boot, Hibernate ORM
-Architecture: RESTful APIs, MVC Pattern, Microservices Basics
-```
-
-#### 🗃️ **Database Management**
-```yaml
-NoSQL: MongoDB (Document-based storage)
-Concepts: CRUD Operations, Database Design, Data Modeling
-```
-
-#### 🎭 **Design & Creativity**
-```yaml
-Tools: Canva, Behance, Figma
-Skills: UI/UX Design, Graphic Design, Prototyping, Brand Identity
-```
-
-#### 🔧 **Additional Skills**
-```yaml
-Version Control: Git, GitHub
-Networking: Cisco Fundamentals
-Package Management: NPM
-Problem Solving: Data Structures, Algorithms, Competitive Programming
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📊 GitHub Performance Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdTabish24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdTabish24&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdTabish24&theme=tokyonight&hide_border=true&fire=FF6D00&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-<details>
-<summary>📊 <b>More GitHub Metrics</b></summary>
 <br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdTabish24&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdTabish24&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-</details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🎓 Academic Excellence
+## 🚀 Current Focus
 
 <div align="center">
 
-| **Institution** | **Degree** | **Year** | **Status** |
-|:---:|:---:|:---:|:---:|
-| BK Birla College (Autonomous), Kalyan | BSc Information Technology | 2nd Year | 🎯 In Progress |
-
-**Key Coursework:** Web Technologies • Database Management • Data Structures • Object-Oriented Programming • Software Engineering • Computer Networks
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 💡 Daily Inspiration
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-### Let's Build Something Amazing Together! 🚀
-
-<p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.</p>
-
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/MdTabish)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohammad%20Tabish%20Ansari)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md.tabish_ansari)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ansari_MdTabish)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fiza8983khan@gmail.com)
-
-### 📧 Professional Inquiries
-
-**For collaborations, freelance opportunities, or just to say hi:**
-- 💼 Open to freelance projects
-- 🤝 Available for collaborations
-- 📚 Happy to mentor beginners
-- 💡 Let's discuss your next big idea!
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-
-### ⚡ Fun Facts About Me
-
-```
-🎯 Solving problems one bug at a time
-☕ Powered by coffee and curiosity  
-🌱 Always learning, always growing
-🎨 Code is poetry, design is art
-🚀 Believer in "Done is better than perfect"
-💻 Debug mode: console.log() enthusiast
-🎓 Student by day, developer by night
-🌟 Dream big, code bigger
+```mermaid
+mindmap
+  root((Mohammad Tabish))
+    Learning
+      Advanced React Patterns
+      System Design
+      Cloud Architecture
+      Microservices
+    Building
+      Personal Portfolio
+      Open Source Projects
+      Technical Blog
+      Web Applications
+    Skills
+      Full Stack Development
+      UI/UX Design
+      Problem Solving
+      Team Collaboration
 ```
 
 </div>
 
+<br>
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
+<br>
+
+## 📫 Let's Connect
+
 <div align="center">
 
-### 💖 Thank You for Visiting!
+### 💬 Open for Opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Connect%20and%20Create!&fontSize=30&fontAlignY=75&animation=twinkling"/>
+I'm actively seeking **internships**, **freelance projects**, and **collaborative opportunities**. Whether you have a project idea, need technical guidance, or just want to discuss tech, I'm here!
 
-![Profile Views](https://komarev.com/ghpvc/?username=MdTabish24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+<br>
 
-**"Code with passion, design with purpose, build with excellence."**
+**📧 Email:** your.email@example.com  
+**💼 LinkedIn:** [Mohammad Tabish Ansari](https://linkedin.com/in/Mohammad%20Tabish%20Ansari)  
+**🌐 Portfolio:** [github.com/MdTabish24](https://github.com/MdTabish24)
 
-⭐ Don't forget to star my repositories if you find them useful!
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=MdTabish24&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⚡ "Code with passion, design with purpose, build with excellence."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 </div>
