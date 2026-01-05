@@ -4,8 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=280&section=header&text=MOHAMMAD%20TABISH&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20|%20BACKEND%20ARCHITECT&descSize=18&descAlignY=58&descColor=ffffff&stroke=00d4ff&strokeWidth=2"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;JAVA+%7C+SPRING+BOOT+%7C+MICROSERVICES+%7C+CLOUD;BUILDING+TOMORROW'S+SOLUTIONS+TODAY" alt="Typing SVG" />
 </a>
