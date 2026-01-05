@@ -281,7 +281,7 @@ const tabish: Developer = {
 
 ### Open for Opportunities
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 **Internships | Freelance | Collaborations | Open Source | Tech Discussions**
 
@@ -319,7 +319,7 @@ const tabish: Developer = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
 <br/><br/>
 
