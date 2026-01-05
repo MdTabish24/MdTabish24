@@ -1,21 +1,17 @@
 <div align="center">
 
-<!-- 🔥 ULTRA 3D ANIMATED HEADER - NEON BLUE THEME -->
 <a href="https://github.com/MdTabish24">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=280&section=header&text=MOHAMMAD%20TABISH&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20FULL%20STACK%20DEVELOPER%20|%20BACKEND%20ARCHITECT%20⚡&descSize=18&descAlignY=58&descColor=ffffff&stroke=00d4ff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=280&section=header&text=MOHAMMAD%20TABISH&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20|%20BACKEND%20ARCHITECT&descSize=18&descAlignY=58&descColor=ffffff&stroke=00d4ff&strokeWidth=2"/>
 </a>
 
-<!-- 🌌 NEON BLUE ANIMATED BACKGROUND -->
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
-<!-- ⚡ NEON CYAN TYPING SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%E2%9C%A8+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY+%E2%9C%A8;%F0%9F%94%A5+JAVA+%7C+SPRING+BOOT+%7C+MICROSERVICES+%7C+CLOUD+%F0%9F%94%A5;%F0%9F%9A%80+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;JAVA+%7C+SPRING+BOOT+%7C+MICROSERVICES+%7C+CLOUD;BUILDING+TOMORROW'S+SOLUTIONS+TODAY" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- 🎮 ANIMATED 3D SOCIAL ICONS -->
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
 </a>
@@ -34,7 +30,6 @@
 
 <br/><br/>
 
-<!-- 🐍 SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
@@ -43,17 +38,14 @@
 
 </div>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 🎯 3D HOLOGRAPHIC ABOUT SECTION -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/> About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/>
 
 </div>
 
-<!-- 🖥️ ANIMATED DEVELOPER GIF -->
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
@@ -68,12 +60,12 @@ interface Developer {
 
 const tabish: Developer = {
     name: "Mohammad Tabish",
-    location: "Mumbai, Maharashtra 🇮🇳",
+    location: "Mumbai, Maharashtra, India",
     
     education: {
         degree: "BSc Information Technology",
         university: "BK Birla College (Autonomous)",
-        year: "2nd Year • 2023-2026"
+        year: "2nd Year - 2023-2026"
     },
 
     skills: {
@@ -85,19 +77,17 @@ const tabish: Developer = {
         architecture: ["Microservices", "REST APIs", "MVC"]
     },
 
-    currentFocus: "Building Scalable Backend Systems 🚀",
+    currentFocus: "Building Scalable Backend Systems",
     
-    funFact: () => "There are two ways to write error-free programs; only the third one works 😄"
+    funFact: () => "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
 <br clear="both"/>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 
-<!-- 🛠️ Tech Stack - UNTOUCHED -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/>
@@ -189,45 +179,37 @@ const tabish: Developer = {
 
 <br/>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 📊 3D GITHUB STATS SECTION - NEON BLUE THEME -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/> GitHub Analytics <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/>
 
 <br/>
 
-<!-- 🔥 3D CONTRIBUTION STREAK - NEON BLUE -->
 <a href="https://github.com/MdTabish24">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=MdTabish24&theme=tokyonight&hide_border=true&border_radius=25&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=888888" width="70%"/>
 </a>
 
 <br/><br/>
 
-<!-- 📊 STATS CARDS - NEON BLUE -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&ring_color=00D4FF&border_radius=25" width="49%"/>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=25&langs_count=8" width="41%"/>
 
 <br/><br/>
 
-<!-- 📈 ACTIVITY GRAPH - NEON BLUE -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline&radius=20&area_color=00D4FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline&radius=20&area_color=00D4FF" width="95%"/>
 
 <br/><br/>
 
-<!-- 🏆 3D TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 📈 3D Metrics Section - UNTOUCHED -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/> Metrics & Insights <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/>
@@ -246,17 +228,14 @@ const tabish: Developer = {
 
 <br/>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 🎯 3D CURRENT FOCUS WITH ANIMATED ICONS -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/> Current Focus <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/>
 
 <br/>
 
-<!-- 🔥 ANIMATED TECH ICONS ROW -->
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80"/>
@@ -265,23 +244,22 @@ const tabish: Developer = {
 
 <br/><br/>
 
-<!-- 🎮 3D ANIMATED MISSION BOX -->
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║   🎯 MISSION                                                                         ║
-║   ├── 🔥 Master Backend Development with Java & Spring Boot                          ║
-║   ├── 🏗️ Build Production-Ready Microservices                                        ║
-║   ├── ☁️ Learn Cloud Architecture & DevOps                                           ║
-║   └── 🌟 Contribute to Open Source Community                                         ║
+║   MISSION                                                                            ║
+║   |-- Master Backend Development with Java & Spring Boot                             ║
+║   |-- Build Production-Ready Microservices                                           ║
+║   |-- Learn Cloud Architecture & DevOps                                              ║
+║   |-- Contribute to Open Source Community                                            ║
 ║                                                                                      ║
-║   🏆 2025 GOALS                                                                      ║
-║   ├── 💼 Land Software Engineering Internship                                        ║
-║   ├── 🚀 Deploy 5+ Full-Stack Applications                                           ║
-║   ├── ⭐ 100+ GitHub Contributions                                                   ║
-║   └── 📚 Master System Design Fundamentals                                           ║
+║   2025 GOALS                                                                         ║
+║   |-- Land Software Engineering Internship                                           ║
+║   |-- Deploy 5+ Full-Stack Applications                                              ║
+║   |-- 100+ GitHub Contributions                                                      ║
+║   |-- Master System Design Fundamentals                                              ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -292,45 +270,38 @@ const tabish: Developer = {
 
 <br/>
 
-<!-- 🔵 NEON BLUE ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 🤝 3D CONNECT SECTION -->
 <div align="center">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/> Let's Connect <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/>
 
 <br/>
 
-<!-- 🌟 ANIMATED HANDSHAKE -->
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468f5596.gif" width="100"/>
 
 <br/><br/>
 
-### 💬 Open for Opportunities
+### Open for Opportunities
 
-<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200"/>
-
-**Internships • Freelance • Collaborations • Open Source • Tech Discussions**
+**Internships | Freelance | Collaborations | Open Source | Tech Discussions**
 
 <br/>
 
-<!-- 🔗 SOCIAL LINKS - NEON BLUE THEME -->
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://img.shields.io/badge/💼_Hire_Me_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/📧_Drop_an_Email-00D4FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drop_an_Email-00D4FF?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/MdTabish24">
-<img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- 👀 PROFILE VIEWS - NEON BLUE -->
 <img src="https://komarev.com/ghpvc/?username=MdTabish24&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
 &nbsp;
 <a href="https://github.com/MdTabish24?tab=followers">
@@ -339,31 +310,26 @@ const tabish: Developer = {
 
 <br/><br/>
 
-<!-- 💭 RANDOM DEV QUOTE -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
 
 </div>
 
 <br/>
 
-<!-- 🌊 3D ANIMATED FOOTER - NEON BLUE WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn&reversal=true"/>
 
 <div align="center">
 
-<!-- ⚡ ANIMATED CODING GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
 
 <br/><br/>
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <br/>
 
-<!-- 🌟 NEON BLUE WAVE FOOTER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
-<!-- 🎮 ANIMATED PACMAN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 </div>
