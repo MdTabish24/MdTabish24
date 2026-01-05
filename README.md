@@ -1,97 +1,113 @@
 <div align="center">
 
-<!-- Space Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:1a1a2e&height=200&section=header&text=Mohammad%20Tabish&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&stroke=00d4ff&strokeWidth=1"/>
+<!-- Animated 3D Header with Glow -->
+<a href="https://github.com/MdTabish24">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=MOHAMMAD%20TABISH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descSize=25&descAlignY=60&descAlign=50&stroke=00ffff&strokeWidth=2"/>
+</a>
+
+<!-- Glowing Animated Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Transforming+Ideas+Into+Digital+Reality+%E2%9C%A8;%F0%9F%9A%80+Java+%7C+Spring+Boot+%7C+Full+Stack+%7C+Cloud+%F0%9F%9A%80;%F0%9F%92%8E+Building+Tomorrow's+Solutions+Today+%F0%9F%92%8E" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Crafting+elegant+solutions+to+complex+problems;Building+the+future%2C+one+commit+at+a+time" alt="Tagline" />
+<!-- 3D Animated Badges -->
+<a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+</a>
+<img src="https://img.shields.io/badge/%20-000?style=for-the-badge"/>
+<a href="https://github.com/MdTabish24">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/%20-000?style=for-the-badge"/>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/%20-000?style=for-the-badge"/>
+<a href="https://instagram.com/md.tabish_ansari">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<!-- Minimal Social Links -->
-<a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/MdTabish24"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/md.tabish_ansari"><img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=E4405F"/></a>
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
 <br/>
 
-<!-- Animated Starfield Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+<!-- Animated Neon Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- About Section - Premium Style -->
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
+<!-- 3D About Section with Holographic Effect -->
+<div align="center">
 
-## ✦ About
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-```yaml
-name: Mohammad Tabish Ansari
-location: Mumbai, India
-role: Full Stack Developer
+</div>
 
-education:
-  degree: BSc Information Technology
-  university: BK Birla College, Kalyan
-  year: 2nd Year (2023-2026)
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-core_skills:
-  - Backend Development
-  - REST API Design
-  - Database Architecture
-  - UI/UX Design
+```js
+const tabish = {
+    pronouns: "He" | "Him",
+    location: "Mumbai, Maharashtra 🇮🇳",
+    
+    education: {
+        degree: "BSc Information Technology",
+        university: "BK Birla College (Autonomous)",
+        year: "2nd Year • 2023-2026"
+    },
 
-currently_exploring:
-  - Microservices
-  - Cloud Computing
-  - System Design
+    code: ["Java", "JavaScript", "Python", "C++"],
+    
+    technologies: {
+        backEnd: {
+            java: ["Spring Boot", "Hibernate", "JPA"],
+            js: ["Node.js", "Express"]
+        },
+        frontEnd: ["HTML5", "CSS3", "Bootstrap", "Tailwind"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        devOps: ["Docker", "Git", "Linux"],
+        tools: ["VS Code", "Postman", "Figma"]
+    },
+
+    architecture: [
+        "Microservices",
+        "REST APIs", 
+        "MVC Pattern",
+        "Clean Architecture"
+    ],
+    
+    currentFocus: "Building Scalable Backend Systems",
+    
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
-</td>
-<td width="50%" valign="top">
-
-## ✦ Quick Stats
+<br clear="both"/>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Tech Stack - UNTOUCHED -->
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00d4ff&text_color=9f9f9f&ring_color=00d4ff&hide_title=true&hide_rank=true"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=MdTabish24&style=flat&color=00d4ff&label=Profile+Views"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<br/>
-
-<!-- Tech Stack - UNTOUCHED AS REQUESTED -->
-<div align="center">
-
-## ✦ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> Tech Stack
 
 <br/>
 
@@ -180,123 +196,161 @@ currently_exploring:
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- GitHub Analytics - Space Theme -->
+<!-- 3D GitHub Stats Section -->
 <div align="center">
 
-## ✦ GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Analytics
 
 <br/>
 
-<!-- Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com?user=MdTabish24&hide_border=true&background=00000000&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=9f9f9f&currStreakNum=ffffff&sideNums=9f9f9f&dates=555555&border_radius=15"/>
+<!-- 3D Contribution Calendar -->
+<a href="https://github.com/MdTabish24">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=MdTabish24&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=888888" width="70%"/>
+</a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=00000000&color=9f9f9f&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<!-- Stats Cards Side by Side -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&ring_color=00FFFF&border_radius=20" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=20&langs_count=8" width="41%"/>
 
 <br/><br/>
 
-<!-- Languages -->
-<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=8"/>
+<!-- Activity Graph with Glow Effect -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline&radius=16" width="95%"/>
+
+<br/><br/>
+
+<!-- 3D Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- 3D Metrics Section -->
 <div align="center">
 
-## ✦ Contribution Snake
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Metrics & Insights
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdTabish24&theme=tokyonight" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdTabish24&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdTabish24&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdTabish24&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- Current Focus - Minimal Cards -->
+<!-- Current Focus with 3D Cards -->
 <div align="center">
 
-## ✦ Current Focus
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> Current Focus
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎯_Spring_Boot_&_Microservices-1a1a2e?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/☁️_Cloud_Architecture-1a1a2e?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📐_System_Design-1a1a2e?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🔗_REST_APIs-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔥_Spring_Boot_Microservices-0D1117?style=for-the-badge&labelColor=00FFFF"/>
+<img src="https://img.shields.io/badge/☁️_AWS_Cloud_Services-0D1117?style=for-the-badge&labelColor=FF9900"/>
+<img src="https://img.shields.io/badge/🏗️_System_Design-0D1117?style=for-the-badge&labelColor=00FFFF"/>
+<img src="https://img.shields.io/badge/🔗_REST_API_Design-0D1117?style=for-the-badge&labelColor=39D353"/>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   🎯 MISSION                                                                 ║
+║   ├── Master Backend Development with Java & Spring Boot                     ║
+║   ├── Build Production-Ready Microservices                                   ║
+║   ├── Learn Cloud Architecture & DevOps                                      ║
+║   └── Contribute to Open Source Community                                    ║
+║                                                                              ║
+║   🏆 2025 GOALS                                                              ║
+║   ├── 💼 Land Software Engineering Internship                                ║
+║   ├── 🚀 Deploy 5+ Full-Stack Applications                                   ║
+║   ├── 🌟 100+ GitHub Contributions                                           ║
+║   └── 📚 Master System Design Fundamentals                                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
 
-<!-- Connect Section - Premium Style -->
+<!-- Connect Section with Glow -->
 <div align="center">
 
-## ✦ Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect
 
 <br/>
 
-**Open for opportunities, collaborations, and interesting conversations.**
+### 💬 Open for Opportunities
+
+**Internships • Freelance • Collaborations • Open Source • Tech Discussions**
 
 <br/>
 
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_Hire_Me_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧_Drop_an_Email-D14836?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/MdTabish24">
+<img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-100000?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- Trophies - Minimal -->
-<img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<!-- Profile Views with Glow -->
+<img src="https://komarev.com/ghpvc/?username=MdTabish24&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://github.com/MdTabish24?tab=followers">
+<img src="https://img.shields.io/github/followers/MdTabish24?style=for-the-badge&color=00FFFF&labelColor=0D1117&logo=github"/>
+</a>
+
+<br/><br/>
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
 
 </div>
 
-<br/><br/>
+<br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1117,100:000000&height=120&section=footer"/>
+<!-- 3D Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling&reversal=true"/>
 
 <div align="center">
 
-<sub>✦ Designed with precision • Built with passion ✦</sub>
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 </div>
