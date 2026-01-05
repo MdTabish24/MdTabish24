@@ -281,7 +281,8 @@ const tabish: Developer = {
 
 ### Open for Opportunities
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea7-e3e5fc0e42cf.gif" width="250"/>
 
 **Internships | Freelance | Collaborations | Open Source | Tech Discussions**
 
@@ -319,7 +320,7 @@ const tabish: Developer = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea7-e3e5fc0e42cf.gif" width="300"/>
 
 <br/><br/>
 
