@@ -1,116 +1,99 @@
 <div align="center">
 
-<!-- Animated 3D Text Header -->
-<a href="https://github.com/MdTabish24">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3C+MOHAMMAD+TABISH+%2F%3E;FULL+STACK+DEVELOPER" alt="Header" />
-</a>
+<!-- Space Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:1a1a2e&height=200&section=header&text=Mohammad%20Tabish&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&stroke=00d4ff&strokeWidth=1"/>
 
 <br/>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
-<!-- 3D Badges -->
-<a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-</a>
-<a href="https://github.com/MdTabish24">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://instagram.com/md.tabish_ansari">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://x.com/Ansari_MdTabish">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<!-- Animated Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Crafting+elegant+solutions+to+complex+problems;Building+the+future%2C+one+commit+at+a+time" alt="Tagline" />
 
 <br/><br/>
 
-<!-- Animated Status Badges -->
-<img src="https://img.shields.io/badge/🎓_BSc_IT-BK_Birla_College-00D9FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📍_Location-Mumbai,_India-00D9FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💼_Status-Open_to_Work-39d353?style=for-the-badge&labelColor=0d1117"/>
+<!-- Minimal Social Links -->
+<a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/MdTabish24"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/md.tabish_ansari"><img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=E4405F"/></a>
 
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
-</picture>
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Animated Starfield Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;About Me
+<!-- About Section - Premium Style -->
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4Y2x6Y3BxdWRxbWRxbWRxbWRxbWRxbWRxbWRxbWRxbWRxbWRxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## ✦ About
 
-```typescript
-class SoftwareDeveloper {
-  name: string = "Mohammad Tabish Ansari";
-  role: string = "Full Stack Developer";
-  location: string = "Bhiwandi, Maharashtra, India 🇮🇳";
-  
-  education = {
-    degree: "BSc Information Technology",
-    institution: "BK Birla College (Autonomous), Kalyan",
-    year: "2nd Year (2023-2026)",
-    cgpa: "Currently Pursuing"
-  };
+```yaml
+name: Mohammad Tabish Ansari
+location: Mumbai, India
+role: Full Stack Developer
 
-  languages = ["Java", "JavaScript", "Python", "C++", "SQL"];
-  
-  askMeAbout = [
-    "Spring Boot", "REST APIs", "Web Dev",
-    "Database Design", "UI/UX", "Tech in general"
-  ];
+education:
+  degree: BSc Information Technology
+  university: BK Birla College, Kalyan
+  year: 2nd Year (2023-2026)
 
-  technologies = {
-    backEnd: ["Java", "Spring Boot", "Hibernate", "Node.js"],
-    frontEnd: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "Tailwind"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "Postman", "Linux", "VS Code"],
-    design: ["Figma", "Canva", "Adobe XD"]
-  };
+core_skills:
+  - Backend Development
+  - REST API Design
+  - Database Architecture
+  - UI/UX Design
 
-  currentlyLearning = ["React.js", "Microservices", "AWS", "System Design"];
-  
-  hobbies = ["Coding", "Problem Solving", "UI Design", "Learning New Tech"];
-  
-  funFact = "I mass produce bugs and mass fix them too 🐛";
-  
-  getContactInfo() {
-    return {
-      email: "your.email@example.com",
-      linkedin: "Mohammad Tabish Ansari",
-      github: "MdTabish24"
-    };
-  }
-}
+currently_exploring:
+  - Microservices
+  - Cloud Computing
+  - System Design
 ```
 
-<br clear="both"/>
+</td>
+<td width="50%" valign="top">
+
+## ✦ Quick Stats
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Tech Stack
 
 <div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00d4ff&text_color=9f9f9f&ring_color=00d4ff&hide_title=true&hide_rank=true"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MdTabish24&style=flat&color=00d4ff&label=Profile+Views"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<br/>
+
+<!-- Tech Stack - UNTOUCHED AS REQUESTED -->
+<div align="center">
+
+## ✦ Tech Stack
+
+<br/>
 
 <table>
 <tr>
@@ -197,174 +180,123 @@ class SoftwareDeveloper {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"/> GitHub Analytics
-
+<!-- GitHub Analytics - Space Theme -->
 <div align="center">
 
-<!-- 3D Contribution Calendar -->
-<a href="https://skyline.github.com/MdTabish24/2024">
-<img src="https://img.shields.io/badge/View_My_3D_Contribution_Skyline-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdTabish24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MdTabish24&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=MdTabish24&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
-</picture>
+## ✦ GitHub Analytics
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=10"/>
+<!-- Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com?user=MdTabish24&hide_border=true&background=00000000&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=9f9f9f&currStreakNum=ffffff&sideNums=9f9f9f&dates=555555&border_radius=15"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MdTabish24?tab=repositories">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MdTabish24&repo=MdTabish24&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-</a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdTabish24&bg_color=00000000&color=9f9f9f&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/><br/>
 
-> 🚧 **More projects coming soon!** Currently working on some exciting full-stack applications.
+<!-- Languages -->
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdTabish24&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=8"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"/> Current Journey
-
+<!-- Snake Animation -->
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   🎯 CURRENT FOCUS                                                          │
-│   ├── 🔥 Mastering Spring Boot & Microservices                              │
-│   ├── 🌐 Building Production-Ready REST APIs                                │
-│   ├── 📚 Learning React.js for Frontend                                     │
-│   └── ☁️  Exploring AWS Cloud Services                                      │
-│                                                                             │
-│   🎓 EDUCATION                                                              │
-│   └── BSc IT @ BK Birla College, Kalyan (2023-2026)                        │
-│       ├── 📖 Data Structures & Algorithms                                   │
-│       ├── 📖 Database Management Systems                                    │
-│       ├── 📖 Software Engineering                                           │
-│       └── 📖 Web Technologies                                               │
-│                                                                             │
-│   🏆 2025 GOALS                                                             │
-│   ├── 💼 Land a Software Engineering Internship                             │
-│   ├── 🌟 Contribute to Open Source Projects                                 │
-│   ├── 🚀 Deploy 3+ Full-Stack Applications                                  │
-│   └── 📈 Grow Professional Network                                          │
-│                                                                             │
-│   💡 INTERESTS                                                              │
-│   ├── Backend Development    ├── System Design                              │
-│   ├── API Development        ├── Problem Solving                            │
-│   ├── Database Design        └── UI/UX Design                               │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+## ✦ Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> Let's Connect & Collaborate
-
+<!-- Current Focus - Minimal Cards -->
 <div align="center">
 
-<br/>
-
-### 💬 I'm always excited to connect with fellow developers!
+## ✦ Current Focus
 
 <br/>
 
-| 💼 **Open For** | 📫 **Reach Me** |
-|:---:|:---:|
-| Internships | [LinkedIn](https://linkedin.com/in/Mohammad%20Tabish%20Ansari) |
-| Freelance Projects | [Email](mailto:your.email@example.com) |
-| Open Source Collaboration | [GitHub](https://github.com/MdTabish24) |
-| Tech Discussions | [Twitter/X](https://x.com/Ansari_MdTabish) |
-| Mentorship | [Instagram](https://instagram.com/md.tabish_ansari) |
+<img src="https://img.shields.io/badge/🎯_Spring_Boot_&_Microservices-1a1a2e?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/☁️_Cloud_Architecture-1a1a2e?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📐_System_Design-1a1a2e?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🔗_REST_APIs-1a1a2e?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
+
+<br/>
+
+<!-- Connect Section - Premium Style -->
+<div align="center">
+
+## ✦ Let's Connect
+
+<br/>
+
+**Open for opportunities, collaborations, and interesting conversations.**
 
 <br/>
 
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://img.shields.io/badge/💼_Hire_Me_on_LinkedIn-0077B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge"/>
-</a>
-<a href="https://github.com/MdTabish24">
-<img src="https://img.shields.io/badge/⭐_Follow_on_GitHub-100000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=MdTabish24&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/MdTabish24?tab=followers">
-<img src="https://img.shields.io/github/followers/MdTabish24?style=for-the-badge&color=00D9FF&labelColor=0d1117"/>
-</a>
+<!-- Trophies - Minimal -->
+<img src="https://github-profile-trophy.vercel.app/?username=MdTabish24&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=150&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1117,100:000000&height=120&section=footer"/>
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/>
-
-<sub>⚡ "The only way to do great work is to love what you do." - Steve Jobs</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
-
-<sub>🔥 Made with passion by Mohammad Tabish Ansari | Last Updated: January 2025</sub>
+<sub>✦ Designed with precision • Built with passion ✦</sub>
 
 </div>
