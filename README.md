@@ -1,50 +1,51 @@
 <div align="center">
 
 <a href="https://github.com/MdTabish24">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=280&section=header&text=MOHAMMAD%20TABISH&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20|%20BACKEND%20ARCHITECT&descSize=18&descAlignY=58&descColor=ffffff&stroke=00d4ff&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,35:0f2942,70:00d4ff,100:0d1117&height=300&section=header&text=MOHAMMAD%20TABISH&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20BACKEND%20ARCHITECT&descSize=17&descAlignY=58&descColor=8ee9ff"/>
 </a>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;JAVA+%7C+SPRING+BOOT+%7C+MICROSERVICES+%7C+CLOUD;BUILDING+TOMORROW'S+SOLUTIONS+TODAY" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;JAVA+%7C+SPRING+BOOT+%7C+MICROSERVICES+%7C+CLOUD;BUILDING+TOMORROW'S+SOLUTIONS+TODAY" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<p>
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
-<img width="10"/>
 <a href="https://github.com/MdTabish24">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117"/>
 </a>
-<img width="10"/>
 <a href="mailto:your.email@example.com">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"/>
+<img src="https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117"/>
 </a>
-<img width="10"/>
 <a href="https://instagram.com/md.tabish_ansari">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
 </a>
+</p>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<br/>
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"/> About Me
+## 🪪 About Me
 
 </div>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="60%" valign="top">
 
 ```typescript
 interface Developer {
@@ -59,11 +60,11 @@ interface Developer {
 const tabish: Developer = {
     name: "Mohammad Tabish",
     location: "Mumbai, Maharashtra, India",
-    
+
     education: {
         degree: "BSc Information Technology",
         university: "BK Birla College (Autonomous)",
-        year: "2nd Year - 2023-2026"
+        year: "2nd Year — 2023 to 2026"
     },
 
     skills: {
@@ -76,117 +77,85 @@ const tabish: Developer = {
     },
 
     currentFocus: "Building Scalable Backend Systems",
-    
-    funFact: () => "There are two ways to write error-free programs; only the third one works"
+
+    funFact: () =>
+        "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<br clear="both"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"/> Tech Stack
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br/><sub><b>Java</b></sub>
 </td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br/><sub><b>Spring Boot</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br/><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br/><sub><b>CSS3</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br/><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br/><sub><b>Bootstrap</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br/><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br/><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br/><sub><b>Linux</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br/><sub><b>Figma</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br/><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
-<br/><sub><b>Hibernate</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br/><sub><b>GitHub</b></sub>
+<td width="40%" align="center" valign="top">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+## ⚙️ Tech Stack
+
+<sub>Embossed skill badges — each one styled with depth and a soft glow</sub>
+
+<br/><br/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1f29&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1f29"/>
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1f29"/>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1f29"/>
+
+<br/><br/>
+
+**Databases & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=1a1f29&labelColor=1a1f29"/>
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1f29"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=1a1f29"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/> GitHub Analytics
+## 📊 GitHub Analytics
+<sub>Live, auto-refreshing widgets — updates every time this page loads</sub>
+
 <br/>
 
-<a href="https://github.com/MdTabish24">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=MdTabish24&theme=tokyonight&hide_border=true&border_radius=25&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=888888" width="70%"/>
-</a>
 
 <br/><br/>
 
@@ -205,11 +174,9 @@ const tabish: Developer = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/> Metrics & Insights
+## 🔍 Metrics & Insights
 
 <br/>
 
@@ -225,84 +192,59 @@ const tabish: Developer = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"/> Current Focus
+## 🎯 Current Focus
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
-
 ```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   MISSION                                                                            ║
-║   |-- Master Backend Development with Java & Spring Boot                             ║
-║   |-- Build Production-Ready Microservices                                           ║
-║   |-- Learn Cloud Architecture & DevOps                                              ║
-║   |-- Contribute to Open Source Community                                            ║
-║                                                                                      ║
-║   2025 GOALS                                                                         ║
-║   |-- Land Software Engineering Internship                                           ║
-║   |-- Deploy 5+ Full-Stack Applications                                              ║
-║   |-- 100+ GitHub Contributions                                                      ║
-║   |-- Master System Design Fundamentals                                              ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   MISSION                                                          ║
+║   ├── Master Backend Development with Java & Spring Boot           ║
+║   ├── Build Production-Ready Microservices                         ║
+║   ├── Learn Cloud Architecture & DevOps                            ║
+║   └── Contribute to Open Source Community                          ║
+║                                                                    ║
+║   2025 GOALS                                                       ║
+║   ├── Land Software Engineering Internship                         ║
+║   ├── Deploy 5+ Full-Stack Applications                            ║
+║   ├── 100+ GitHub Contributions                                    ║
+║   └── Master System Design Fundamentals                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/> Let's Connect
+## 🤝 Let's Connect
 
 <br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350"/>
-
-<br/><br/>
-
 ### Open for Opportunities
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
-
-**Internships | Freelance | Collaborations | Open Source | Tech Discussions**
+**Internships&nbsp;•&nbsp;Freelance&nbsp;•&nbsp;Collaborations&nbsp;•&nbsp;Open Source&nbsp;•&nbsp;Tech Discussions**
 
 <br/>
 
 <a href="https://linkedin.com/in/Mohammad%20Tabish%20Ansari">
-<img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Drop_an_Email-00D4FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drop_an_Email-00D4FF?style=for-the-badge&logoColor=0d1117&labelColor=0d1117"/>
 </a>
-&nbsp;
 <a href="https://github.com/MdTabish24">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logoColor=00d4ff&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MdTabish24&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
-&nbsp;
 <a href="https://github.com/MdTabish24?tab=followers">
 <img src="https://img.shields.io/github/followers/MdTabish24?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github"/>
 </a>
@@ -315,20 +257,10 @@ const tabish: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:00d4ff,100:0d1117&height=140&section=footer&animation=twinkling&reversal=true"/>
 
 <div align="center">
 
-
-
-<br/><br/>
-
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+### *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
