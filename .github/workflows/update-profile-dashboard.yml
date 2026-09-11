@@ -1,0 +1,45 @@
+name: Update Profile Dashboard
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'dashborad.svg'
+      - '.github/scripts/update_dashboard.py'
+      - '.github/workflows/update-profile-dashboard.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update live dashboard values
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: MdTabish24
+          GITHUB_REPO: MdTabish24
+        run: python .github/scripts/update_dashboard.py
+
+      - name: Commit dashboard update
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dashborad.svg
+          if git diff --cached --quiet; then
+            echo 'No dashboard changes.'
+            exit 0
+          fi
+          git commit -m 'chore: refresh live profile dashboard'
+          git push
