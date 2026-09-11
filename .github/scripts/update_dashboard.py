@@ -1,15 +1,12 @@
 import json
 import os
 import urllib.request
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 
 OWNER = os.environ.get("GITHUB_OWNER", "MdTabish24")
 REPO = os.environ.get("GITHUB_REPO", "MdTabish24")
 TOKEN = os.environ.get("GITHUB_TOKEN")
-
 SVG_PATH = "dashborad.svg"
-
-GRAPHQL_URL = "https://api.github.com/graphql"
 
 HEADERS = {
     "Accept": "application/vnd.github+json",
@@ -17,106 +14,39 @@ HEADERS = {
     "User-Agent": "profile-dashboard-updater",
     "X-GitHub-Api-Version": "2022-11-28",
 }
-
 if TOKEN:
     HEADERS["Authorization"] = f"Bearer {TOKEN}"
 
-
-def github_rest(url):
-    req = urllib.request.Request(url, headers=HEADERS)
-
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return json.load(response)
-
-
-def github_graphql(query, variables=None):
-    payload = {
-        "query": query,
-        "variables": variables or {}
-    }
-
-    data = json.dumps(payload).encode("utf-8")
-
+def graphql(query, variables):
+    body = json.dumps({"query": query, "variables": variables}).encode()
     req = urllib.request.Request(
-        GRAPHQL_URL,
-        data=data,
-        headers=HEADERS,
-        method="POST"
+        "https://api.github.com/graphql",
+        data=body, headers=HEADERS, method="POST"
     )
-
-    with urllib.request.urlopen(req, timeout=30) as response:
-        result = json.load(response)
-
-    if "errors" in result:
-        raise RuntimeError(
-            "GitHub GraphQL error: " + json.dumps(result["errors"])
-        )
-
+    with urllib.request.urlopen(req, timeout=30) as r:
+        result = json.load(r)
+    if result.get("errors"):
+        raise RuntimeError(json.dumps(result["errors"]))
     return result["data"]
 
+def fmt(n):
+    return f"{n:,}"
 
-# ---------------------------------------------------------
-# BASIC PROFILE DATA
-# ---------------------------------------------------------
-
-user = github_rest(
-    f"https://api.github.com/users/{OWNER}"
-)
-
-repo = github_rest(
-    f"https://api.github.com/repos/{OWNER}/{REPO}"
-)
-
-
-# ---------------------------------------------------------
-# GITHUB GRAPHQL DATA
-# ---------------------------------------------------------
+now = datetime.now(timezone.utc)
+start = now - timedelta(days=365)
 
 query = """
-query($login: String!) {
+query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
-
-    name
     login
-    bio
-    location
-
-    followers {
-      totalCount
-    }
-
-    following {
-      totalCount
-    }
-
-    repositories(
-      first: 100
-      ownerAffiliations: OWNER
-      privacy: PUBLIC
-      isFork: false
-    ) {
-      totalCount
-
-      nodes {
-        stargazerCount
-        forkCount
-        name
-        primaryLanguage {
-          name
-        }
-      }
-    }
-
-    contributionsCollection {
-
+    name
+    contributionsCollection(from: $from, to: $to) {
       totalCommitContributions
       totalIssueContributions
       totalPullRequestContributions
       totalRepositoryContributions
-
       contributionCalendar {
         totalContributions
-
         weeks {
           contributionDays {
             date
@@ -125,183 +55,68 @@ query($login: String!) {
         }
       }
     }
-
+    repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false) {
+      totalCount
+      nodes { stargazerCount }
+    }
   }
 }
 """
 
-data = github_graphql(
-    query,
-    {"login": OWNER}
-)
+data = graphql(query, {
+    "login": OWNER,
+    "from": start.isoformat(),
+    "to": now.isoformat(),
+})["user"]
 
-github_user = data["user"]
+collection = data["contributionsCollection"]
+calendar = collection["contributionCalendar"]
+days = [d for w in calendar["weeks"] for d in w["contributionDays"]]
+days.sort(key=lambda d: d["date"])
 
-repositories = github_user["repositories"]
-
-contributions = github_user["contributionsCollection"]
-
-calendar = contributions["contributionCalendar"]
-
-
-# ---------------------------------------------------------
-# CALCULATE STARS
-# ---------------------------------------------------------
-
-total_stars = 0
-
-for repository in repositories["nodes"]:
-    total_stars += repository["stargazerCount"]
-
-
-# ---------------------------------------------------------
-# CALCULATE CURRENT STREAK
-# ---------------------------------------------------------
-
-days = []
-
-for week in calendar["weeks"]:
-    for contribution_day in week["contributionDays"]:
-        days.append(contribution_day)
-
-days.sort(key=lambda x: x["date"])
-
-
-today = date.today()
-
+# Current streak. Today can be zero while yesterday's streak is still active.
 current_streak = 0
-
-for contribution_day in reversed(days):
-
-    contribution_date = date.fromisoformat(
-        contribution_day["date"]
-    )
-
-    if contribution_day["contributionCount"] > 0:
-
+for d in reversed(days):
+    if d["contributionCount"] > 0:
         current_streak += 1
-
+    elif d["date"] == date.today().isoformat():
+        continue
     else:
-
-        # Allow today to be zero without breaking
-        # yesterday's streak.
-        if contribution_date == today:
-            continue
-
         break
 
+# Longest streak.
+longest_streak = 0
+running = 0
+for d in days:
+    if d["contributionCount"] > 0:
+        running += 1
+        longest_streak = max(longest_streak, running)
+    else:
+        running = 0
 
-# ---------------------------------------------------------
-# PROFILE VALUES
-# ---------------------------------------------------------
-
-repo_count = repositories["totalCount"]
-
-followers = github_user["followers"]["totalCount"]
-
-following = github_user["following"]["totalCount"]
-
-commits = contributions["totalCommitContributions"]
-
-prs = contributions["totalPullRequestContributions"]
-
-issues = contributions["totalIssueContributions"]
-
-contribution_count = calendar["totalContributions"]
-
-
-# ---------------------------------------------------------
-# FORMAT NUMBERS
-# ---------------------------------------------------------
-
-def format_number(number):
-    return f"{number:,}"
-
+stars = sum(r["stargazerCount"] for r in data["repositories"]["nodes"])
 
 values = {
-
-    # Basic
-    "REPO_COUNT": format_number(repo_count),
-    "FOLLOWERS": format_number(followers),
-    "FOLLOWING": format_number(following),
-
-    # GitHub stats
-    "STARS": format_number(total_stars),
-    "REPO_STARS": format_number(total_stars),
-
-    "COMMITS": format_number(commits),
-
-    "PRS": format_number(prs),
-
-    "ISSUES": format_number(issues),
-
-    "CONTRIBUTIONS": format_number(contribution_count),
-
-    "STREAK": format_number(current_streak),
-
-    # Profile
-    "NAME": github_user["name"] or OWNER,
-
-    "USERNAME": github_user["login"],
-
-    "BIO": github_user["bio"] or "",
-
-    "LOCATION": github_user["location"] or "",
-
+    "STARS": fmt(stars),
+    "COMMITS": fmt(collection["totalCommitContributions"]),
+    "PRS": fmt(collection["totalPullRequestContributions"]),
+    "ISSUES": fmt(collection["totalIssueContributions"]),
+    "CURRENT_STREAK": fmt(current_streak),
+    "LONGEST_STREAK": fmt(longest_streak),
+    "CONTRIBUTIONS": fmt(calendar["totalContributions"]),
+    "REPO_COUNT": fmt(data["repositories"]["totalCount"]),
+    "USERNAME": data["login"],
 }
 
-
-# ---------------------------------------------------------
-# READ SVG
-# ---------------------------------------------------------
-
-with open(
-    SVG_PATH,
-    "r",
-    encoding="utf-8"
-) as file:
-
-    svg = file.read()
-
-
-# ---------------------------------------------------------
-# REPLACE PLACEHOLDERS
-# ---------------------------------------------------------
+with open(SVG_PATH, "r", encoding="utf-8") as f:
+    svg = f.read()
 
 for key, value in values.items():
+    svg = svg.replace("{{" + key + "}}", value)
 
-    placeholder = "{{" + key + "}}"
+with open(SVG_PATH, "w", encoding="utf-8", newline="") as f:
+    f.write(svg)
 
-    svg = svg.replace(
-        placeholder,
-        value
-    )
-
-
-# ---------------------------------------------------------
-# WRITE SVG
-# ---------------------------------------------------------
-
-with open(
-    SVG_PATH,
-    "w",
-    encoding="utf-8",
-    newline=""
-) as file:
-
-    file.write(svg)
-
-
-print("")
-print("========================================")
-print(" GitHub Dashboard Updated")
-print("========================================")
-print(f"Repositories : {repo_count}")
-print(f"Stars        : {total_stars}")
-print(f"Commits      : {commits}")
-print(f"Pull Requests: {prs}")
-print(f"Issues       : {issues}")
-print(f"Contributions: {contribution_count}")
-print(f"Streak       : {current_streak}")
-print(f"Followers    : {followers}")
-print("========================================")
+print("Dashboard refreshed:")
+for key, value in values.items():
+    print(f"  {key}={value}")
