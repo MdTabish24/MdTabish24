@@ -1,5 +1,3 @@
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2800" width="100%" role="img" aria-label="3D Neumorphic Dashboard">
-    <image href="./dashborad.svg" width="1200" height="2800" preserveAspectRatio="xMidYMid meet"/>
-  </svg>
+  <img src="https://raw.githubusercontent.com/MdTabish24/MdTabish24/main/dashborad.svg" width="100%" alt="3D Neumorphic Dashboard">
 </div>
