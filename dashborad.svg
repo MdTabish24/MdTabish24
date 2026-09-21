@@ -292,7 +292,7 @@
       
       <circle cx="60" cy="100" r="45" fill="none" stroke="#2a313c" stroke-width="8"/>
       <circle cx="60" cy="100" r="45" fill="none" stroke="#f97316" stroke-width="8" stroke-dasharray="282" stroke-dashoffset="100"/>
-      <text x="60" y="105" font-family="Fira Code, monospace" font-weight="700" font-size="24" fill="#f97316" text-anchor="middle">2</text>
+      <text x="60" y="105" font-family="Fira Code, monospace" font-weight="700" font-size="24" fill="#f97316" text-anchor="middle">0</text>
       <text x="60" y="175" font-family="Inter, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">Current</text>
 
       <circle cx="180" cy="100" r="45" fill="none" stroke="#2a313c" stroke-width="8"/>
