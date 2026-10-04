@@ -247,7 +247,7 @@
   <!-- Left: Overall Stats -->
   <g transform="translate(120, 1250)">
       <text x="0" y="15" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">⭐ Total Stars Earned</text>
-      <text x="250" y="15" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">0</text>
+      <text x="250" y="15" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">1</text>
       
       <text x="0" y="65" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">🔄 Total Commits (2025)</text>
       <text x="250" y="65" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">752</text>
