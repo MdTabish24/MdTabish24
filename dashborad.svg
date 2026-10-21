@@ -449,8 +449,9 @@
 <text x="10" y="165" font-family="Fira Code, monospace" font-size="10" fill="#00d4ff" text-anchor="end">0</text>
 <g fill="#c678dd">
 <rect x="185" y="147.0" width="8" height="13.0"/>
-<rect x="196" y="147.0" width="8" height="13.0"/>
-<rect x="218" y="121.0" width="8" height="39.0"/>
+<rect x="196" y="134.0" width="8" height="26.0"/>
+<rect x="218" y="95.0" width="8" height="65.0"/>
+<rect x="251" y="134.0" width="8" height="26.0"/>
 </g>
   </g>
 
