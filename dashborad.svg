@@ -448,7 +448,7 @@
 <text x="10" y="139" font-family="Fira Code, monospace" font-size="10" fill="#00d4ff" text-anchor="end">2</text>
 <text x="10" y="165" font-family="Fira Code, monospace" font-size="10" fill="#00d4ff" text-anchor="end">0</text>
 <g fill="#c678dd">
-<rect x="20" y="113.57142857142857" width="8" height="46.42857142857143"/>
+<rect x="20" y="85.71428571428572" width="8" height="74.28571428571428"/>
 <rect x="31" y="141.42857142857144" width="8" height="18.57142857142857"/>
 <rect x="97" y="141.42857142857144" width="8" height="18.57142857142857"/>
 <rect x="108" y="122.85714285714286" width="8" height="37.14285714285714"/>
@@ -459,7 +459,7 @@
 <rect x="196" y="30.0" width="8" height="130.0"/>
 <rect x="218" y="132.14285714285714" width="8" height="27.857142857142854"/>
 <rect x="240" y="150.71428571428572" width="8" height="9.285714285714285"/>
-<rect x="251" y="67.14285714285714" width="8" height="92.85714285714286"/>
+<rect x="251" y="57.85714285714286" width="8" height="102.14285714285714"/>
 <rect x="262" y="122.85714285714286" width="8" height="37.14285714285714"/>
 <rect x="273" y="122.85714285714286" width="8" height="37.14285714285714"/>
 </g>
