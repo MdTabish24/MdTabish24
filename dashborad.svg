@@ -247,13 +247,13 @@
   <!-- Left: Overall Stats -->
   <g transform="translate(120, 1250)">
       <text x="0" y="15" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">⭐ Total Stars Earned</text>
-      <text x="250" y="15" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">0</text>
+      <text x="250" y="15" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">1</text>
       
       <text x="0" y="65" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">🔄 Total Commits (2026)</text>
-      <text x="250" y="65" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">656</text>
+      <text x="250" y="65" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">744</text>
 
       <text x="0" y="115" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">🔀 Total PRs</text>
-      <text x="250" y="115" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">1</text>
+      <text x="250" y="115" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">2</text>
 
       <text x="0" y="165" font-family="Inter, sans-serif" font-size="16" fill="#9ca3af">🎯 Issues Contributed</text>
       <text x="250" y="165" font-family="Fira Code, monospace" font-weight="700" font-size="18" fill="#00d4ff">0</text>
@@ -273,11 +273,11 @@
             
             <text x="0" y="95" font-family="Inter, sans-serif" font-size="14" fill="#ffffff">HTML</text>
             <rect x="100" y="85" width="150" height="10" rx="5" fill="#2a313c"/>
-            <rect x="100" y="85" width="72" height="10" rx="5" fill="#e34c26"/>
+            <rect x="100" y="85" width="69" height="10" rx="5" fill="#e34c26"/>
             
             <text x="0" y="135" font-family="Inter, sans-serif" font-size="14" fill="#ffffff">TypeScript</text>
             <rect x="100" y="125" width="150" height="10" rx="5" fill="#2a313c"/>
-            <rect x="100" y="125" width="24" height="10" rx="5" fill="#3178c6"/>
+            <rect x="100" y="125" width="23" height="10" rx="5" fill="#3178c6"/>
             
             <text x="0" y="175" font-family="Inter, sans-serif" font-size="14" fill="#ffffff">Kotlin</text>
             <rect x="100" y="165" width="150" height="10" rx="5" fill="#2a313c"/>
@@ -326,7 +326,7 @@
     
     <!-- Repos -->
     <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20v-2H6.5a.5.5 0 0 0 0 1H20V4H6.5A2.5 2.5 0 0 0 4 6.5v13zM4 19.5V21h16v-2H6.5a.5.5 0 0 0-.5.5z" fill="#00d4ff" transform="translate(0, 85)"/>
-    <text x="35" y="103" font-family="Inter, sans-serif" font-size="18" fill="#00d4ff">36 Public Repos</text>
+    <text x="35" y="103" font-family="Inter, sans-serif" font-size="18" fill="#00d4ff">37 Public Repos</text>
     
     <!-- Clock -->
     <circle cx="12" cy="12" r="10" fill="none" stroke="#00d4ff" stroke-width="2" transform="translate(0, 130)"/>
@@ -388,11 +388,11 @@
             <rect x="0" y="130" width="12" height="12" fill="#555555"/>
             <text x="20" y="141" font-family="Inter, sans-serif" font-size="12" fill="#00d4ff">C</text>
             <g transform="translate(180, 100) rotate(-90)">
-<circle cx="0" cy="0" r="45" fill="none" stroke="#e34c26" stroke-width="25" stroke-dasharray="161.54285714285712 282.7" stroke-dashoffset="0"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#3572A5" stroke-width="25" stroke-dasharray="50.482142857142854 282.7" stroke-dashoffset="-161.54285714285712"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#3178c6" stroke-width="25" stroke-dasharray="50.482142857142854 282.7" stroke-dashoffset="-212.02499999999998"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#DA5B0B" stroke-width="25" stroke-dasharray="10.09642857142857 282.7" stroke-dashoffset="-262.5071428571428"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#555555" stroke-width="25" stroke-dasharray="10.09642857142857 282.7" stroke-dashoffset="-272.6035714285714"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#e34c26" stroke-width="25" stroke-dasharray="155.97241379310344 282.7" stroke-dashoffset="0"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#3572A5" stroke-width="25" stroke-dasharray="58.48965517241379 282.7" stroke-dashoffset="-155.97241379310344"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#3178c6" stroke-width="25" stroke-dasharray="48.741379310344826 282.7" stroke-dashoffset="-214.46206896551723"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#DA5B0B" stroke-width="25" stroke-dasharray="9.748275862068965 282.7" stroke-dashoffset="-263.20344827586206"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#555555" stroke-width="25" stroke-dasharray="9.748275862068965 282.7" stroke-dashoffset="-272.951724137931"/>
 </g>
   </g>
 
@@ -418,11 +418,11 @@
             <rect x="0" y="130" width="12" height="12" fill="#f1e05a"/>
             <text x="20" y="141" font-family="Inter, sans-serif" font-size="12" fill="#00d4ff">JavaScript</text>
             <g transform="translate(180, 100) rotate(-90)">
-<circle cx="0" cy="0" r="45" fill="none" stroke="#3572A5" stroke-width="25" stroke-dasharray="158.11477162146087 282.7" stroke-dashoffset="0"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#e34c26" stroke-width="25" stroke-dasharray="76.00886042147128 282.7" stroke-dashoffset="-158.11477162146087"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#3178c6" stroke-width="25" stroke-dasharray="26.075134884055828 282.7" stroke-dashoffset="-234.12363204293217"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#A97BFF" stroke-width="25" stroke-dasharray="16.518097072314635 282.7" stroke-dashoffset="-260.198766926988"/>
-<circle cx="0" cy="0" r="45" fill="none" stroke="#f1e05a" stroke-width="25" stroke-dasharray="5.983136000697365 282.7" stroke-dashoffset="-276.71686399930263"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#3572A5" stroke-width="25" stroke-dasharray="160.44189322253547 282.7" stroke-dashoffset="0"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#e34c26" stroke-width="25" stroke-dasharray="74.61809203780642 282.7" stroke-dashoffset="-160.44189322253547"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#3178c6" stroke-width="25" stroke-dasharray="25.517049033048245 282.7" stroke-dashoffset="-235.05998526034188"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#A97BFF" stroke-width="25" stroke-dasharray="16.164560405961073 282.7" stroke-dashoffset="-260.5770342933901"/>
+<circle cx="0" cy="0" r="45" fill="none" stroke="#f1e05a" stroke-width="25" stroke-dasharray="5.9584053006487725 282.7" stroke-dashoffset="-276.7415946993512"/>
 </g>
   </g>
 
@@ -448,7 +448,7 @@
 <text x="10" y="139" font-family="Fira Code, monospace" font-size="10" fill="#00d4ff" text-anchor="end">2</text>
 <text x="10" y="165" font-family="Fira Code, monospace" font-size="10" fill="#00d4ff" text-anchor="end">0</text>
 <g fill="#c678dd">
-<rect x="152" y="147.0" width="8" height="13.0"/>
+<rect x="152" y="134.0" width="8" height="26.0"/>
 <rect x="163" y="134.0" width="8" height="26.0"/>
 </g>
   </g>
